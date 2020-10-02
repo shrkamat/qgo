@@ -1,7 +1,7 @@
-import QtQuick 2.12
+import QtQuick 2.4
 
 Rectangle {
-    color: "cyan"
+    color: "lightblue"
 
     Text {
         anchors.fill: parent
